@@ -1,0 +1,6 @@
+emotion_detection/
+│
+├── data_preprocessing.py       # Functions for loading and preprocessing data
+├── model.py                    # Functions for building and training the model
+├── train.py                    # Main script to train the model
+└── utils.py                    # Utility functions (e.g., feature extraction)
